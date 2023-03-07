@@ -1,0 +1,27 @@
+.navbar {
+  display: flex;
+  justify-content: space-between;
+  padding: 2rem 8.5rem;
+  &__logo {
+    width: 124px;
+    height: 35px;
+    cursor: pointer;
+  }
+  &__list {
+    display: flex;
+    align-items: center;
+    li {
+      margin-left: 3.5rem;
+      font-weight: 400;
+      color: rgba(255, 255, 255, 0.7);
+      transition: all 0.3s ease-in-out;
+      &:hover {
+        color: white;
+        cursor: pointer;
+      }
+    }
+    .active {
+      color: white;
+    }
+  }
+}

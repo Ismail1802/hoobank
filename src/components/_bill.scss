@@ -1,0 +1,41 @@
+.bill {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin-top: 10rem;
+  position: relative;
+  padding: 0 8.5rem;
+  &__img {
+    flex: 0.5;
+    &:before {
+      content: "";
+      position: absolute;
+      filter: blur(225px);
+      width: 195px;
+      height: 324px;
+      left: 0;
+      top: 7rem;
+      opacity: 0.8;
+      background: #ffffff;
+      z-index: -3;
+    }
+  }
+  &__text {
+    display: flex;
+    flex-direction: column;
+    flex: 0.4;
+    h2 {
+      font-size: 3rem;
+    }
+    p {
+      font-size: 1.1rem;
+      margin-top: 2rem;
+      opacity: 0.7;
+    }
+  }
+  &__download {
+    margin-top: 3rem;
+    display: flex;
+    gap: 2rem;
+  }
+}
