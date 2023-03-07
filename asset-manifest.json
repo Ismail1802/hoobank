@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/hoobank/static/css/main.1a2db382.css",
+    "main.css": "/hoobank/static/css/main.a00381c0.css",
     "main.js": "/hoobank/static/js/main.d1caf8b0.js",
     "static/media/robot.png": "/hoobank/static/media/robot.b3924d6a4b8b19ef9de9.png",
     "static/media/bill.png": "/hoobank/static/media/bill.042c4c8c3a77ddd977e0.png",
@@ -23,11 +23,11 @@
     "static/media/Send.svg": "/hoobank/static/media/Send.ef141d57be59e51c5b9987321c4311ed.svg",
     "static/media/quotes.svg": "/hoobank/static/media/quotes.434c184457ebf3e0a409048091321839.svg",
     "static/media/facebook.svg": "/hoobank/static/media/facebook.d7c0b4e9ce034fb8d8f719d7fbc5fd90.svg",
-    "main.1a2db382.css.map": "/hoobank/static/css/main.1a2db382.css.map",
+    "main.a00381c0.css.map": "/hoobank/static/css/main.a00381c0.css.map",
     "main.d1caf8b0.js.map": "/hoobank/static/js/main.d1caf8b0.js.map"
   },
   "entrypoints": [
-    "static/css/main.1a2db382.css",
+    "static/css/main.a00381c0.css",
     "static/js/main.d1caf8b0.js"
   ]
 }
